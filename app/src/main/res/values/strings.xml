@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SR5 Dice</string>
+    <string name="clear">Clear</string>
+    <string name="total">Total:</string>
+    <string name="total_hits">Total Hits:</string>
+    <string name="push_limit">Push the Limit</string>
+    <string name="second_chance">Second Chance</string>
+    <string name="edge">Edge</string>
+    <string name="custom_roll">Custom Button</string>
+    <string name="custom_button_value">Custom Button Value</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="normal">#FFFFFF</color>
+    <color name="hit">#FFD700</color>
+    <color name="exploding">#FF0000</color>
+    <color name="secondChance">#8A2BE2</color>
+</resources>
